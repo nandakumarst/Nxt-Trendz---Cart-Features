@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Nxt-Trendz---Cart-Features/static/css/main.a12ae308.css",
+    "main.js": "/Nxt-Trendz---Cart-Features/static/js/main.bbf66f15.js",
+    "index.html": "/Nxt-Trendz---Cart-Features/index.html",
+    "main.a12ae308.css.map": "/Nxt-Trendz---Cart-Features/static/css/main.a12ae308.css.map",
+    "main.bbf66f15.js.map": "/Nxt-Trendz---Cart-Features/static/js/main.bbf66f15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a12ae308.css",
+    "static/js/main.bbf66f15.js"
+  ]
+}
